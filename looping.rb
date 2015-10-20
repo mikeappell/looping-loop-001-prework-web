@@ -1,5 +1,8 @@
 def looping
-	#your code here
+  loop do
+    puts "Win-garrrrrrr-dium leviosa!"
+  end
 end
 
-#call your method here
+looping
+
